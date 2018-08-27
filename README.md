@@ -1,9 +1,12 @@
-# eventi
+# Eventi Marca User Group
 
-### Eventi salvacena (i.e.: da organizzare in poco tempo)
-- code kata
-- hack nights
-- code retreat
-- modelling kata (invece di proporre un problema da implementare, si propone un dominio da modellare, e si lascia libertà ai partecipanti di usare la tecnica di modellazione che preferiscono)
-- language race (si propone un problema da implementare in vari linguaggi; a differenza di un kata normale, lo scopo è cercare di capire le differenze tra i vari linguaggi e la loro diversa espressività)
-- language raffle (definito un particolare esercizio/kata, si estrae a random un linguaggio e si cerca tutti di arrivare ad un'implementazione funzionante)
+## Come creare un evento
+
+* Chiunque può proporre un talk [creando una issue](https://github.com/m-u-g/eventi/issues/new) su questo repo. Aggiungi un titolo, un abstract e qualsiasi altra inforamzione ritieni utile.
+
+* Ogni mese sul nostro [canale slack](https://mug-slack-inviter.herokuapp.com/) viene fatto un sondaggio tra i partecipanti. Il talk più votato sarà organizzato nel mese successivo. Verrai contattato dagli organizzatori per i dettagli.
+
+## Dopo il talk
+
+* Dopo il tuo talk ti chiediamo di aggiungere il materiale (video, slides, etc.) in questo repo in modo da renderlo disponibile a tutti.
+
