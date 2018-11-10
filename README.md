@@ -1,5 +1,10 @@
 # Eventi Marca User Group
 
+[![MUG](https://file-oyryyb7c5.now.sh)](https://m-u-g.github.io/)
+
+
+[![Slack Status](https://mug-slack-inviter.herokuapp.com/badge.svg)](https://mug-slack-inviter.herokuapp.com)
+
 ## Come creare un evento
 
 * Chiunque può proporre un talk [creando una issue](https://github.com/m-u-g/eventi/issues/new) su questo repo. Aggiungi un titolo, un abstract e qualsiasi altra inforamzione ritieni utile.
